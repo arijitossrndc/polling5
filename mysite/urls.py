@@ -1,7 +1,7 @@
 
 from django.contrib import admin
 from django.urls import include, path
-import polls.views
+from.import polls.views
 
 app_name  = 'polls'
 admin.autodiscover()
