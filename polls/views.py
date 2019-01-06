@@ -5,7 +5,7 @@ from django.urls import reverse
 from django.views import generic
 from django.db.models import F
 from django.utils import timezone
-k
+
 from .models import Choice, Question
 
 
